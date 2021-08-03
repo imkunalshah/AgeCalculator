@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_section1">Age</string>
+    <string name="today">"Today: "</string>
+    <string name="birthdate">"Birth date: "</string>
+    <string name="dayOfBirth">"Day of Birth: "</string>
+    <string name="remainingDays">"Remaining days for next birthday: "</string>
+    <string name="setDate">Choose your birth date</string>
+</resources>
